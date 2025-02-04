@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am about to join the school of Computer Science and Technology (School of Artificial Intelligence) at Zhejiang Sci-Tech University as a lecturer. Previously, I received my Ph.D. from Computer Science and Technology at Nanjing University, advised by Prof. Wu-Jun Li. I received my B.S. degree from Information and Computational Science at Xi'an Jiaotong University.
+I am about to join the School of Computer Science and Technology (School of Artificial Intelligence) at Zhejiang Sci-Tech University as a lecturer. Previously, I received my Ph.D. in Computer Science and Technology at Nanjing University, advised by Prof. Wu-Jun Li. I received my B.S. degree in Information and Computational Science at Xi'an Jiaotong University.
 
 
 ## Research Interests

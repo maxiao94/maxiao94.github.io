@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/clustered_reinforcement_learning.pdf
   #   # code: https://github.com/MrGiovanni/ContinualLearning
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/VSAA.jpg
+    image: ./assets/img/CRL.jpg
   #   # notes: Early Accept
 
   # - title: Weighted Online Decision Transformer with Episodic Memory for Offline-to-Online Reinforcement Learning

@@ -34,14 +34,14 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/VSAA.jpg
 
-  # - title: State-based Episodic Memory for Multi-agent Reinforcement Learning
-  #   # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
-  #   authors: <strong>Xiao Ma*</strong>, Wu-Jun Li
-  #   conference_short: MLJ
-  #   conference:  Machine Learning Journal (2023): 5163-5190.
-  #   pdf: ./assets/files/state-based_episodic_memory_for_multi-agent_reinforcement_learning.pdf
-  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   # notes: Oral Presentation
-  #   image: ./assets/img/SEM.jpg
+  - title: State-based Episodic Memory for Multi-agent Reinforcement Learning
+    # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
+    authors: <strong>Xiao Ma*</strong>, Wu-Jun Li
+    conference_short: MLJ
+    conference:  Machine Learning Journal (2023): 5163-5190.
+    pdf: ./assets/files/state-based_episodic_memory_for_multi-agent_reinforcement_learning.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SEM.jpg

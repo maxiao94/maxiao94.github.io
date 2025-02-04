@@ -10,7 +10,7 @@ I am about to join the school of Computer Science and Technology (School of Arti
 ## Research Interests
 
 - **Reinforcement Learning:** sample efficiency, multi-agent reinforcement learning, offline-to-online reinforcement learning
-- **Reinforcment Learning in LLM**
+- **Reinforcment Learning in LLMs**
 
 <!-- ## News
 

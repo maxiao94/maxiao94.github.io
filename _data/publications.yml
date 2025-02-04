@@ -3,11 +3,11 @@ main:
   - title: Clustered Reinforcement Learning
     authors: <strong>Xiao Ma*</strong>, Shen-Yi Zhao, Zhao-Heng Yin, Wu-Jun Li* (*Corresponding authors)
     conference_short: FCS
-    conference: Frontiers in Computer Science <strong>(FCS)</strong>, 2024.
+    conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024.
     pdf: ./assets/files/clustered_reinforcement_learning.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CRL.pdf
     # notes: Early Accept
 
   - title: Weighted Online Decision Transformer with Episodic Memory for Offline-to-Online Reinforcement Learning
@@ -20,7 +20,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/WODTEM.jpg
   
   - title: Grey-box Adversarial Attack on Communication in Multi-agent Reinforcement Learning
     # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
@@ -32,7 +32,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/VSAA.jpg
 
   - title: State-based Episodic Memory for Multi-agent Reinforcement Learning
     # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
@@ -44,4 +44,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/SEM.jpg

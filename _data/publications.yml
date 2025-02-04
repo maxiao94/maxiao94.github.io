@@ -1,7 +1,7 @@
 main:
 
   - title: Clustered Reinforcement Learning
-    authors: <strong>Xiao Ma*</strong>, Shen-Yi Zhao, Zhao-Heng Yin, Wu-Jun Li* (*Corresponding authors)
+    authors: <strong>Xiao Ma</strong>, Shen-Yi Zhao, Zhao-Heng Yin, Wu-Jun Li
     conference_short: FCS
     conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024.
     pdf: ./assets/files/clustered_reinforcement_learning.pdf

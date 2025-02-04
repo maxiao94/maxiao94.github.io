@@ -12,7 +12,7 @@ main:
 
   - title: Weighted Online Decision Transformer with Episodic Memory for Offline-to-Online Reinforcement Learning
     # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
-    authors: <strong>Xiao Ma*</strong>, Wu-Jun Li
+    authors: <strong>Xiao Ma</strong>, Wu-Jun Li
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
     pdf: ./assets/files/weighted_online_decision_transformer_with_episodic_memory_for_offline-to-online_reinforcement_learning.pdf
@@ -24,7 +24,7 @@ main:
   
   - title: Grey-box Adversarial Attack on Communication in Multi-agent Reinforcement Learning
     # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
-    authors: <strong>Xiao Ma*</strong>, Wu-Jun Li
+    authors: <strong>Xiao Ma</strong>, Wu-Jun Li
     conference_short: AAMAS
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2023.
     pdf: ./assets/files/grey-box_adversarial_attack_on_communication_in_multi-agent_reinforcement_learning.pdf
@@ -36,7 +36,7 @@ main:
 
   - title: State-based Episodic Memory for Multi-agent Reinforcement Learning
     # authors: <strong>Xiao Ma*</strong>, Wu-Jun Li* (*Corresponding authors)
-    authors: <strong>Xiao Ma*</strong>, Wu-Jun Li
+    authors: <strong>Xiao Ma</strong>, Wu-Jun Li
     conference_short: MLJ
     conference:  Machine Learning Journal <strong>(MLJ)</strong>, 2023.
     pdf: ./assets/files/state-based_episodic_memory_for_multi-agent_reinforcement_learning.pdf

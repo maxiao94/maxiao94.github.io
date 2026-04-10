@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiao Ma"
   avatar           : "images/max.jpg"
-  bio              : "Lecturer, Zhejiang Sci-Tech University"
+  bio              : "Lecturer,<br>Zhejiang Sci-Tech University"
   location         : "Hangzhou, China"
   employer         : "School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Sci-Tech University"
   pubmed           : 

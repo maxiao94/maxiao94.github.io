@@ -1,5 +1,10 @@
 ---
 layout: homepage
+title_override: 马骁
+position: 讲师（Lecturer）
+affiliation: 浙江理工大学计算机科学与技术学院（人工智能学院）
+affiliation_link: https://www.zstu.edu.cn/
+email: maxiao@zstu.edu.cn
 ---
 
 <div class="lang-switch">
@@ -42,6 +47,14 @@ layout: homepage
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
+<div class="content-card" markdown="1">
+
 {% include_relative _includes/publications.md %}
 
+</div>
+
+<div class="content-card" markdown="1">
+
 {% include_relative _includes/services.md %}
+
+</div>

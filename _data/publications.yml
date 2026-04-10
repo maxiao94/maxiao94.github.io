@@ -6,7 +6,7 @@ main:
     pdf: ./assets/files/TIFS25_VSAA.pdf
   #   # code: https://github.com/MrGiovanni/ContinualLearning
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/FrameVSA.pdf
+    image: ./assets/img/FrameVSA_00.jpg
 
   - title: Clustered Reinforcement Learning
     authors: <strong>Xiao Ma</strong>, Shen-Yi Zhao, Zhao-Heng Yin, Wu-Jun Li

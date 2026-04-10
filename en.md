@@ -1,6 +1,11 @@
 ---
 layout: homepage
 permalink: /en/
+title_override: Xiao Ma
+position: Lecturer
+affiliation: School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Sci-Tech University
+affiliation_link: https://www.zstu.edu.cn/
+email: maxiao@zstu.edu.cn
 ---
 
 <div class="lang-switch">
@@ -36,6 +41,14 @@ I am currently a lecturer at the School of Computer Science and Technology (Scho
 
 </div>
 
+<div class="content-card" markdown="1">
+
 {% include_relative _includes/publications.md %}
 
+</div>
+
+<div class="content-card" markdown="1">
+
 {% include_relative _includes/services.md %}
+
+</div>

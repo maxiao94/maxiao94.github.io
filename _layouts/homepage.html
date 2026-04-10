@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    {% assign page_title = page.title_override | default: site.title %}
+    {% assign page_affiliation = page.affiliation | default: site.affiliation %}
+    {% assign page_position = page.position | default: site.position %}
+    {% assign page_email = page.email | default: site.email %}
+    {% assign page_affiliation_link = page.affiliation_link | default: site.affiliation_link %}
+    <title>{{ page_title }} | {{ page_affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,18 +48,18 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>{{ page_title }}</h1>
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        {% if page_position %}
+        <position style="font-size:1.10rem;">{{ page_position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if page_affiliation %}
+        <a href="{{ page_affiliation_link }}" rel="noopener"><autocolor>{{ page_affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if page_email %}
+        <email>{{ page_email }}</email>
         {% endif %}
 
         <br>

@@ -2,3 +2,65 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+:root {
+  --brand: #0f766e;
+  --brand-soft: #e6f5f3;
+  --card-border: #d9e4ec;
+}
+
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem;
+  border-radius: 999px;
+  background: var(--brand-soft);
+  margin-bottom: 1rem;
+}
+
+.lang-switch a,
+.lang-switch span {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  line-height: 1.1;
+  text-decoration: none;
+}
+
+.lang-switch a {
+  color: #1f2937;
+}
+
+.lang-switch .active {
+  background: var(--brand);
+  color: #fff;
+  font-weight: 600;
+}
+
+.content-card {
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  margin: 0.85rem 0;
+  background: #ffffff;
+}
+
+.content-card h2 {
+  margin-top: 0.1rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.25rem;
+  color: #0b3a36;
+}
+
+.content-card p,
+.content-card li {
+  line-height: 1.75;
+}
+
+@media (max-width: 768px) {
+  .content-card {
+    padding: 0.85rem 0.9rem;
+  }
+}

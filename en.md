@@ -3,11 +3,20 @@ layout: homepage
 permalink: /en/
 ---
 
-> [中文版](/) | English Version
+<div class="lang-switch">
+  <a href="/">中文</a>
+  <span class="active">English</span>
+</div>
+
+<div class="content-card" markdown="1">
 
 ## Short Bio
 
 I am currently a lecturer at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Sci-Tech University. I received my Ph.D. in Computer Science and Technology from Nanjing University, advised by Prof. Wu-Jun Li, and my B.S. in Information and Computational Science from Xi'an Jiaotong University.
+
+</div>
+
+<div class="content-card" markdown="1">
 
 ## Admissions
 
@@ -15,11 +24,17 @@ I am currently a lecturer at the School of Computer Science and Technology (Scho
 - Applicants are expected to have a solid foundation in mathematics, strong English reading and writing skills, excellent programming ability, and a collaborative mindset.
 - We also value perseverance and optimism in research. Academic integrity and a strong sense of responsibility to your work, the team, and society are essential.
 
+</div>
+
+<div class="content-card" markdown="1">
+
 ## Research Interests
 
 - **Reinforcement Learning:** sample efficiency, multi-agent reinforcement learning, offline-to-online reinforcement learning
 - **Reinforcement Learning in LLMs**
 - **Continual Reinforcement Learning**
+
+</div>
 
 {% include_relative _includes/publications.md %}
 

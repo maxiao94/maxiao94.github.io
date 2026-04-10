@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title_override: 马骁
-position: 讲师（Lecturer）
+position: 讲师
 affiliation: 浙江理工大学计算机科学与技术学院（人工智能学院）
 affiliation_link: https://www.zstu.edu.cn/
 email: maxiao@zstu.edu.cn
@@ -39,13 +39,6 @@ email: maxiao@zstu.edu.cn
 - **持续强化学习（Continual Reinforcement Learning）**
 
 </div>
-
-<!-- ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 <div class="content-card" markdown="1">
 

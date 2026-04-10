@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "Admissions"
+    url: "/#admissions"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Services"
+    url: "/#services"

@@ -2,21 +2,26 @@
 layout: homepage
 ---
 
-## Short Bio
+## 个人简介 | Short Bio
 
-I am a lecture in the School of Computer Science and Technology (School of Artificial Intelligence) at Zhejiang Sci-Tech University as a lecturer. Previously, I received my Ph.D. in Computer Science and Technology at Nanjing University, advised by Prof. Wu-Jun Li. I received my B.S. degree in Information and Computational Science at Xi'an Jiaotong University.
+我目前任职于浙江理工大学计算机科学与技术学院（人工智能学院）讲师。此前，我在南京大学获得计算机科学与技术博士学位，导师为李武军教授；本科毕业于西安交通大学信息与计算科学专业。
 
-## 招生
-- **招收1-2名硕士生。请将个人简历和成绩单发送到 maxiao@zstu.edu.cn。
-- **要求:期望您具备扎实的数学基础、熟练的英文读写能力、过硬的编程能力以及出色的团队协作精神。
-- **期望您具有吃苦耐劳、乐观积极的科研精神（科研之路并非一帆风顺），同时能够做到诚实守信（这是做科研的基本底线），以及具备责任心（对自己的研究负责，同时也对团队和社会负责）。
-Welcome students who are interested in applying for postdoctoral positions, pursuing Ph.D. or Master’s degrees, as well as undergraduates who wish to participate in scientific research training or complete their graduation thesis to join our group. Please contact Prof. Yang Yang, Prof. Prof. Wei Li Guo, or Prof. Prof. Qing-Yuan Jiang via email.
+I am currently a lecturer at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Sci-Tech University. I received my Ph.D. in Computer Science and Technology from Nanjing University, advised by Prof. Wu-Jun Li, and my B.S. in Information and Computational Science from Xi'an Jiaotong University.
 
+## 招生信息 | Admissions
 
-## Research Interests
+- **中文：** 每年招收 1-2 名硕士生。请将个人简历和成绩单发送至 `maxiao@zstu.edu.cn`。
+- **中文：** 希望申请者具备扎实的数学基础、良好的英文读写能力、较强的编程能力和团队协作精神。
+- **中文：** 期待你具备吃苦耐劳和积极乐观的科研态度。科研之路并非一帆风顺，同时请始终坚持学术诚信，并对自己的研究、团队与社会保持责任感。
+- **English:** We are recruiting 1-2 Master's students each year. Please send your CV and transcript to `maxiao@zstu.edu.cn`.
+- **English:** Applicants are expected to have a solid foundation in mathematics, strong English reading and writing skills, excellent programming ability, and a collaborative mindset.
+- **English:** We also value perseverance and optimism in research. Academic integrity and a strong sense of responsibility to your work, the team, and society are essential.
 
-- **Reinforcement Learning:** sample efficiency, multi-agent reinforcement learning, offline-to-online reinforcement learning
-- **Reinforcment Learning in LLMs**
+## 研究方向 | Research Interests
+
+- **强化学习（Reinforcement Learning）：** 样本效率、多智能体强化学习、离线到在线强化学习
+- **大语言模型中的强化学习（Reinforcement Learning in LLMs）**
+- **持续强化学习（Continual Reinforcement Learning）**
 
 <!-- ## News
 
